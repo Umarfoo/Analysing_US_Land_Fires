@@ -6,14 +6,14 @@ Link to orignal [project repository.](https://github.com/TheGreekGoddess/Project
 
 The project included analysis and visualisation of US Land-fire dataset between 2013-2017.
 
--- WHAT WE DID --
+### WHAT WE DID
 
 Steps in Data Extraction, Transformation and Load:
 - Load raw data into PostgreSql
 - Clean data in Python and SQL
 - Create Rest APIs which gives results based on Causes, Locations, State, Year
 
--- HOW WE VISUALISED THE DATA --
+### HOW WE VISUALISED THE DATA
 
 - Created interactive dashboard using Index html and Bootstrap CSS
 - Choropleth by State with a color gradient by count of fires
@@ -22,7 +22,7 @@ Steps in Data Extraction, Transformation and Load:
 - GeoMap with a marker cluster group layer: Filter by Year
 - Plotly Charts: Bar, Bubble and Stacked Bar
 
--- WHAT WE FOUND OUT --
+### WHAT WE FOUND OUT
 
 - In the states most affected by fires, humans are the major contributor with 68%, followed by Undetermined 19% and Natural 13%
 - The West coast has significantly higher counts of fires than the East coast which could be a result of drought in certain areas
