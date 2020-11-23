@@ -1,6 +1,6 @@
 # Important Links
 Link to deployed [website.](https://datavisproject2.herokuapp.com/)
-Link to [project repository.](https://github.com/TheGreekGoddess/Project_2)
+Link to main [project repository.](https://github.com/TheGreekGoddess/Project_2)
 
 #### Information
 This is a dummy repository used for redirecting to the original project. Please follow the link above to see the deployed website and complete repository with the necassary code. 
