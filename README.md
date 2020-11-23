@@ -1,6 +1,6 @@
 # Important Links
 Link to deployed [website.](https://datavisproject2.herokuapp.com/)
-Link to orignal [project repository.](https://github.com/TheGreekGoddess/Project_2)
+Link to [project repository.](https://github.com/TheGreekGoddess/Project_2)
 
 # Analysing_US_Land_Fires
 
